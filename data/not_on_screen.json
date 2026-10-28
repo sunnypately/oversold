@@ -1,0 +1,324 @@
+[
+ {
+  "symbol": "EOSE",
+  "name": "Eos Energy",
+  "segment": "AI power & cooling",
+  "off_high": -0.9028,
+  "reason": "Negative gross margin, so the sales lens is undefined"
+ },
+ {
+  "symbol": "SMR",
+  "name": "NuScale Power",
+  "segment": "AI power & cooling",
+  "off_high": -0.8757,
+  "reason": "Pre-revenue or revenue too small to measure growth; negative gross margin, so the sales lens is undefined"
+ },
+ {
+  "symbol": "OKLO",
+  "name": "Oklo",
+  "segment": "AI power & cooling",
+  "off_high": -0.8249,
+  "reason": "Pre-revenue or revenue too small to measure growth"
+ },
+ {
+  "symbol": "FLNC",
+  "name": "Fluence Energy",
+  "segment": "AI power & cooling",
+  "off_high": -0.8183,
+  "reason": "Revenue +8% y/y, below the 20% bar"
+ },
+ {
+  "symbol": "RGTI",
+  "name": "Rigetti Computing",
+  "segment": "AI software & quantum",
+  "off_high": -0.7262,
+  "reason": "Pre-revenue or revenue too small to measure growth"
+ },
+ {
+  "symbol": "CIFR",
+  "name": "Cipher Digital",
+  "segment": "AI cloud & neoclouds",
+  "off_high": -0.7243,
+  "reason": "Pre-revenue or revenue too small to measure growth"
+ },
+ {
+  "symbol": "IREN",
+  "name": "IREN",
+  "segment": "AI cloud & neoclouds",
+  "off_high": -0.6462,
+  "reason": "Revenue −24% y/y, below the 20% bar"
+ },
+ {
+  "symbol": "WULF",
+  "name": "TeraWulf",
+  "segment": "AI cloud & neoclouds",
+  "off_high": -0.5741,
+  "reason": "Revenue −6% y/y, below the 20% bar"
+ },
+ {
+  "symbol": "AMKR",
+  "name": "Amkor Technology",
+  "segment": "Equipment & packaging",
+  "off_high": -0.5701,
+  "reason": "Revenue flat y/y, below the 20% bar"
+ },
+ {
+  "symbol": "GLW",
+  "name": "Corning",
+  "segment": "Networking, optics & components",
+  "off_high": -0.5192,
+  "reason": "Revenue +17% y/y, below the 20% bar"
+ },
+ {
+  "symbol": "KLAC",
+  "name": "KLA",
+  "segment": "Equipment & packaging",
+  "off_high": -0.4812,
+  "reason": "Revenue +15% y/y, below the 20% bar"
+ },
+ {
+  "symbol": "ON",
+  "name": "ON Semiconductor",
+  "segment": "AI chips & semis",
+  "off_high": -0.4471,
+  "reason": "Revenue +9% y/y, below the 20% bar"
+ },
+ {
+  "symbol": "AI",
+  "name": "C3.ai",
+  "segment": "AI software & quantum",
+  "off_high": -0.3476,
+  "reason": "Revenue −25% y/y, below the 20% bar"
+ },
+ {
+  "symbol": "QCOM",
+  "name": "Qualcomm",
+  "segment": "AI chips & semis",
+  "off_high": -0.3014,
+  "reason": "Revenue −4% y/y, below the 20% bar"
+ },
+ {
+  "symbol": "PATH",
+  "name": "UiPath",
+  "segment": "AI software & quantum",
+  "off_high": -0.2888,
+  "reason": "Revenue +13% y/y, below the 20% bar"
+ },
+ {
+  "symbol": "VST",
+  "name": "Vistra",
+  "segment": "AI power & cooling",
+  "off_high": -0.2807,
+  "reason": "Revenue −5% y/y, below the 20% bar"
+ },
+ {
+  "symbol": "MRVL",
+  "name": "Marvell Technology",
+  "segment": "AI chips & semis",
+  "off_high": -0.2447,
+  "reason": "Only 24% off its high (needs 25%)"
+ },
+ {
+  "symbol": "NVT",
+  "name": "nVent Electric",
+  "segment": "AI power & cooling",
+  "off_high": -0.2422,
+  "reason": "Only 24% off its high (needs 25%)"
+ },
+ {
+  "symbol": "PWR",
+  "name": "Quanta Services",
+  "segment": "AI power & cooling",
+  "off_high": -0.2376,
+  "reason": "Only 24% off its high (needs 25%)"
+ },
+ {
+  "symbol": "MU",
+  "name": "Micron Technology",
+  "segment": "Memory & storage",
+  "off_high": -0.2255,
+  "reason": "Only 23% off its high (needs 25%)"
+ },
+ {
+  "symbol": "TLN",
+  "name": "Talen Energy",
+  "segment": "AI power & cooling",
+  "off_high": -0.2252,
+  "reason": "Revenue +19% y/y, below the 20% bar; only 23% off its high (needs 25%)"
+ },
+ {
+  "symbol": "NOW",
+  "name": "ServiceNow",
+  "segment": "AI software & quantum",
+  "off_high": -0.2201,
+  "reason": "Only 22% off its high (needs 25%)"
+ },
+ {
+  "symbol": "LITE",
+  "name": "Lumentum",
+  "segment": "Networking, optics & components",
+  "off_high": -0.2154,
+  "reason": "Only 22% off its high (needs 25%)"
+ },
+ {
+  "symbol": "META",
+  "name": "Meta Platforms",
+  "segment": "Magnificent 7",
+  "off_high": -0.2135,
+  "reason": "Only 21% off its high (needs 25%)"
+ },
+ {
+  "symbol": "GOOGL",
+  "name": "Alphabet",
+  "segment": "Magnificent 7",
+  "off_high": -0.2084,
+  "reason": "Only 21% off its high (needs 25%)"
+ },
+ {
+  "symbol": "TSLA",
+  "name": "Tesla",
+  "segment": "Magnificent 7",
+  "off_high": -0.1962,
+  "reason": "Revenue flat y/y, below the 20% bar; only 20% off its high (needs 25%)"
+ },
+ {
+  "symbol": "HPE",
+  "name": "Hewlett Packard Enterprise",
+  "segment": "AI servers",
+  "off_high": -0.1792,
+  "reason": "Only 18% off its high (needs 25%)"
+ },
+ {
+  "symbol": "ETN",
+  "name": "Eaton",
+  "segment": "AI power & cooling",
+  "off_high": -0.175,
+  "reason": "Only 17% off its high (needs 25%)"
+ },
+ {
+  "symbol": "DELL",
+  "name": "Dell Technologies",
+  "segment": "AI servers",
+  "off_high": -0.172,
+  "reason": "Only 17% off its high (needs 25%)"
+ },
+ {
+  "symbol": "ASML",
+  "name": "ASML Holding",
+  "segment": "Equipment & packaging",
+  "off_high": -0.1697,
+  "reason": "Only 17% off its high (needs 25%)"
+ },
+ {
+  "symbol": "MDB",
+  "name": "MongoDB",
+  "segment": "AI software & quantum",
+  "off_high": -0.1667,
+  "reason": "Only 17% off its high (needs 25%)"
+ },
+ {
+  "symbol": "TEM",
+  "name": "Tempus AI",
+  "segment": "AI software & quantum",
+  "off_high": -0.1653,
+  "reason": "Only 17% off its high (needs 25%)"
+ },
+ {
+  "symbol": "ANET",
+  "name": "Arista Networks",
+  "segment": "Networking, optics & components",
+  "off_high": -0.139,
+  "reason": "Only 14% off its high (needs 25%)"
+ },
+ {
+  "symbol": "AMD",
+  "name": "Advanced Micro Devices",
+  "segment": "AI chips & semis",
+  "off_high": -0.1379,
+  "reason": "Only 14% off its high (needs 25%)"
+ },
+ {
+  "symbol": "NET",
+  "name": "Cloudflare",
+  "segment": "AI software & quantum",
+  "off_high": -0.1366,
+  "reason": "Only 14% off its high (needs 25%)"
+ },
+ {
+  "symbol": "AMZN",
+  "name": "Amazon",
+  "segment": "Magnificent 7",
+  "off_high": -0.1198,
+  "reason": "Revenue +19.6% y/y, below the 20% bar; only 12% off its high (needs 25%)"
+ },
+ {
+  "symbol": "SNOW",
+  "name": "Snowflake",
+  "segment": "AI software & quantum",
+  "off_high": -0.1115,
+  "reason": "Only 11% off its high (needs 25%)"
+ },
+ {
+  "symbol": "NVDA",
+  "name": "NVIDIA",
+  "segment": "Magnificent 7",
+  "off_high": -0.1079,
+  "reason": "Only 11% off its high (needs 25%)"
+ },
+ {
+  "symbol": "TSM",
+  "name": "Taiwan Semiconductor",
+  "segment": "AI chips & semis",
+  "off_high": -0.1002,
+  "reason": "Only 10% off its high (needs 25%)"
+ },
+ {
+  "symbol": "APH",
+  "name": "Amphenol",
+  "segment": "Networking, optics & components",
+  "off_high": -0.0891,
+  "reason": "Only 9% off its high (needs 25%)"
+ },
+ {
+  "symbol": "PLTR",
+  "name": "Palantir",
+  "segment": "AI software & quantum",
+  "off_high": -0.0891,
+  "reason": "Only 9% off its high (needs 25%)"
+ },
+ {
+  "symbol": "DDOG",
+  "name": "Datadog",
+  "segment": "AI software & quantum",
+  "off_high": -0.0822,
+  "reason": "Only 8% off its high (needs 25%)"
+ },
+ {
+  "symbol": "CRWD",
+  "name": "CrowdStrike",
+  "segment": "AI software & quantum",
+  "off_high": -0.0757,
+  "reason": "Only 8% off its high (needs 25%)"
+ },
+ {
+  "symbol": "ADI",
+  "name": "Analog Devices",
+  "segment": "AI chips & semis",
+  "off_high": -0.0485,
+  "reason": "Only 5% off its high (needs 25%)"
+ },
+ {
+  "symbol": "MSFT",
+  "name": "Microsoft",
+  "segment": "Magnificent 7",
+  "off_high": -0.0472,
+  "reason": "Revenue +18% y/y, below the 20% bar; only 5% off its high (needs 25%)"
+ },
+ {
+  "symbol": "AAPL",
+  "name": "Apple",
+  "segment": "Magnificent 7",
+  "off_high": -0.0174,
+  "reason": "Revenue +16% y/y, below the 20% bar; only 2% off its high (needs 25%)"
+ }
+]
